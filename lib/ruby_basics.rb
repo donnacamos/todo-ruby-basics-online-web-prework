@@ -25,6 +25,7 @@ puts "expert"
 return "expert"
 end
 
-def pizza_party
+def pizza_party("cheese")
+  puts "cheese"
 
 end
